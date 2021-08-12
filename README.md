@@ -37,4 +37,23 @@ Please submit a README.md file with your project with instructions on how to get
 npm install
 yarn install
 '''
-- 
+- Running Proj
+npm start
+yarn run start
+
+- Go to browser http://localhost:3000
+
+### Proj Structure
+- Public
+  -- Images
+  -- index.html
+- src
+  -- components
+  -- data
+  -- redux
+  -- App.js
+  -- App.scss
+  -- fetch-data.js
+  -- index.js
+  -- index.css
+  -- utils.js
