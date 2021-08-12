@@ -1,0 +1,19 @@
+.saatvaIcon {
+    position: relative;
+    cursor: pointer;
+}
+
+.saatvaBage {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 11px;
+    background: #c19579;
+    color: white;
+    width: 16px;
+    height: 16px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

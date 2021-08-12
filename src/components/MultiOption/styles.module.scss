@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-direction: row;
+
+    .option {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex: 1;
+        cursor: pointer;
+        height: 40px;
+        border: 1px solid #A7A19A;
+        background-color: #FEFEFE;
+        color: #A7A19A;
+        transition: all ease 400ms;
+    }
+
+    .option:hover {
+        background-color: #A7A19A;
+        color: #FEFEFE;
+    }
+
+    .active {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex: 1;
+        height: 40px;
+        cursor: pointer;
+        border: 1px solid #A7A19A;
+        background-color: #A7A19A;
+        color: #FEFEFE;
+        transition: all ease 400ms;
+    }
+}

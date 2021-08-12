@@ -29,3 +29,12 @@ The following requirements are loose - this is an opportunity to make the app yo
 ### Submission
 Please submit a public GITHUB repo url or a bundled file of your work to devhiring@saatvamattress.com.
 Please submit a README.md file with your project with instructions on how to get your project up and running and any other miscellaneous items we would need to run.
+
+
+### Env Setup
+- Installing Dependencies
+''' 
+npm install
+yarn install
+'''
+- 
