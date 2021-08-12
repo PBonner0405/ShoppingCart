@@ -33,10 +33,9 @@ Please submit a README.md file with your project with instructions on how to get
 
 ### Env Setup
 - Installing Dependencies
-''' 
-npm install
-yarn install
-'''
+  * `npm install`
+  * `yarn install`
+
 - Running Proj
 npm start
 yarn run start
@@ -45,15 +44,15 @@ yarn run start
 
 ### Proj Structure
 - Public
-  -- Images
-  -- index.html
+  * Images
+  * index.html
 - src
-  -- components
-  -- data
-  -- redux
-  -- App.js
-  -- App.scss
-  -- fetch-data.js
-  -- index.js
-  -- index.css
-  -- utils.js
+  * components
+  * data
+  * redux
+  * App.js
+  * App.scss
+  * fetch-data.js
+  * index.js
+  * index.css
+  * utils.js
